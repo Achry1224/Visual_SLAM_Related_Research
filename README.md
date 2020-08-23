@@ -1008,7 +1008,7 @@
 + 📜 Bu S, Zhao Y, Wan G, et al. [**Map2DFusion: Real-time incremental UAV image mosaicing based on monocular slam**](http://www.adv-ci.com/publications/2016_IROS.pdf)[C]//2016 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, **2016**: 4564-4571.（**代码**：https://github.com/zdzhaoyong/Map2DFusion ）
 + 📜 Wang W, Zhao Y, Han P, et al. [**TerrainFusion: Real-time Digital Surface Model Reconstruction based on Monocular SLAM**](https://ieeexplore.ieee.org/abstract/document/8967663/)[C]//2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, **2019**: 7895-7902.
 
-#### +1 Cyrill Stachniss（德国波恩大学摄影测量与机器人实验室）
+#### 37. Cyrill Stachniss（德国波恩大学摄影测量与机器人实验室）
 
 + **研究方向**：概率机器人、SLAM、自主导航、视觉激光感知、场景分析与分配、无人飞行器
 + **实验室主页**：https://www.ipb.uni-bonn.de/
@@ -1019,7 +1019,7 @@
 + Cyrill Stachniss 教授 SLAM 公开课：[youtube](https://www.youtube.com/watch?v=4QG0y0pIOBE&list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6) ； [bilibili](https://space.bilibili.com/16886998/channel/detail?cid=118821)
 + 波恩大学另外一个**智能自主系统实验室**：http://www.ais.uni-bonn.de/research.html
 
-#### +1 上海科技大学
+#### 38. 上海科技大学
 
 + **Mobile Perception Lab**：http://mpl.sist.shanghaitech.edu.cn/
 + 👦 Laurent Kneip：[个人主页](https://www.laurentkneip.com/)；[谷歌学术](https://scholar.google.com.au/citations?user=lTmh1e0AAAAJ&hl=en)
@@ -1028,7 +1028,7 @@
 + 👦 Sören Schwertfeger：[个人主页](https://robotics.shanghaitech.edu.cn/zh/people/soeren)；[谷歌学术](https://scholar.google.com.au/citations?user=Y2olJ9kAAAAJ&hl=en&oi=ao)
 + 📜 Shan Z, Li R, Schwertfeger S. [**RGBD-Inertial Trajectory Estimation and Mapping for Ground Robots**](https://link.zhihu.com/?target=https%3A//www.mdpi.com/1424-8220/19/10/2251)[J]. Sensors, **2019**, 19(10): 2251.（代码：https://github.com/STAR-Center/VINS-RGBD ）
 
-#### +1 美国密歇根大学机器人研究所
+#### 39. 美国密歇根大学机器人研究所
 
 + **学院官网**：https://robotics.umich.edu/
 + **研究方向**：https://robotics.umich.edu/research/focus-areas/
@@ -1042,7 +1042,7 @@
     + 📜 Olson E. [**AprilTag: A robust and flexible visual fiducial system**](https://april.eecs.umich.edu/pdfs/olson2010tags.pdf)[C]//2011 IEEE International Conference on Robotics and Automation. IEEE, **2011**: 3400-3407. | [**代码**](https://github.com/AprilRobotics/apriltag)
     + 📜 Wang X, Marcotte R, Ferrer G, et al. [**ApriISAM: Real-time smoothing and mapping**](https://april.eecs.umich.edu/papers/details.php?name=wang2018aprilsam)[C]//2018 IEEE International Conference on Robotics and Automation (ICRA). IEEE, **2018**: 2486-2493. | [**代码**](https://github.com/xipengwang/AprilSAM)
     
-#### +1 瑞士苏黎世联邦理工自主系统实验室
+#### 40. 瑞士苏黎世联邦理工自主系统实验室
 
 + **研究方向**：复杂多样环境中自主运行的机器人和智能系统
 + **实验室主页**：https://asl.ethz.ch/
@@ -1052,6 +1052,106 @@
 + 📜 Schneider T, Dymczyk M, Fehr M, et al. [**maplab: An open framework for research in visual-inertial mapping and localization**](https://arxiv.org/pdf/1711.10250)[J]. IEEE Robotics and Automation Letters, **2018**, 3(3): 1418-1425. | [**代码**](https://github.com/ethz-asl/maplab)
 + 📜 Dubé R, Cramariuc A, Dugas D, et al. [**SegMap: 3d segment mapping using data-driven descriptors**](https://arxiv.org/pdf/1804.09557)[J]. arXiv preprint arXiv:1804.09557, **2018**. | [**代码**](https://github.com/ethz-asl/segmap)
 + 📜 Millane A, Taylor Z, Oleynikova H, et al. [**C-blox: A scalable and consistent tsdf-based dense mapping approach**](https://arxiv.org/pdf/1710.07242)[C]//2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018: 995-1002. | [**代码**](https://github.com/ethz-asl/cblox)
+
+#### 41. Tasso Mourikis
+
++ **简介**：UC at riverside
++ **研究方向**：IMU, imagery
++ **主页**：http://www.ee.ucr.edu/~mourikis/
+
+#### 42. Stergios I. Roumeliotis 
+
++ **简介**：University of Minnesota
++ **研究方向**：IMU, imagery
++ **主页**：http://www-users.cs.umn.edu/~stergios/
+
+#### 43. Stefano Soatto
+
++ **简介**：UCLA
++ **研究方向**：IMU, imagery
++ **主页**：http://web.cs.ucla.edu/~soatto/
+
+#### 44. Peter Henry
+
++ **简介**：Uinversity of Washington
++ **研究方向**：Kinect
++ **主页**：http://homes.cs.washington.edu/~peter/
+
+#### 45. Tasso Mourikis
+
++ **简介**：UC at riverside
++ **研究方向**：IMU, imagery
++ **主页**：http://www.ee.ucr.edu/~mourikis/
+
+#### 46. Grace Gao
+
++ **简介**：UIUC
++ **研究方向**：GPS, IMU, camera, UAVs
++ **主页**：http://gracegao.ae.illinois.edu/
+
+#### 47. Vijay Kumar
+
++ **简介**：U Penn, GRASP
++ **研究方向**：UAVs
++ **主页**：http://www.kumarrobotics.org/research/
+
+#### 48. Thomas Whelan
+
++ **简介**：National University of Ireland Maynooth
++ **研究方向**：Kinect
++ **主页**：http://www.thomaswhelan.ie/
+
+#### 49. Andrew Davison
+
++ **简介**：英国帝国理工学院教授，机器视觉组及Dyson机器人实验室主任
++ **研究方向**：机器视觉&Dyson机器人
++ **主页**：http://www.doc.ic.ac.uk/~ajd/index.html
+
+#### 50. Guoquan Huang
+
++ **简介**：Univ of Delaware
++ **主页**：https://udel.edu/~ghuang/
+
+#### 51. Danping Zou(邹丹平)
+
++ **简介**：Shanghai Key Lab of Navigation & Location-based Services, EE, Shanghai Jiaotong Univ
++ **主页**：http://drone.sjtu.edu.cn/dpzou/
+
+#### 52. Guofeng Zhang（章国峰）
+
++ **简介**：State Key lab of CAD&CG, College of Computer Science, Zhejiang University
++ **主页**：http://www.cad.zju.edu.cn/home/gfzhang/
+
+#### 53. Chao Jia
+
++ **简介**：Qualcomm Research CA
++ **主页**：http://signal.ece.utexas.edu/~cjia/
+
+#### 54. Ruizhi Chen（陈锐志）, Yuan Zhuan（庄园）
+
++ **简介**：武汉大学
++ **主页**：http://www.yingjiesheng.com/job-004-397-405.html
+
+#### 55. Vadim Indelman 
+
++ **简介**：Technion city Israel
++ **研究方向**：incremental smoothing and mapping
++ **主页**：https://vindelman.net.technion.ac.il/
+
+#### 56. Shoudong Huang
+
++ **简介**：University of technology Sydney
++ **主页**：https://www.uts.edu.au/staff/shoudong.huang
+
+#### 57. Cyrill Stachniss
+
++ **简介**：part of the Institute of Geodesy and Geoinformation at the University of Bonn
++ **主页**：http://duerer.usc.edu/pipermail/robotics-worldwide/2015-August/010216.html
+
+#### 58. Yulan Luo 
+
++ **简介**：National University of Defense Technology
++ **主页**：http://yulanguo.me/
 
 ---
 
